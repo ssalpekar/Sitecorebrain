@@ -1,10 +1,7 @@
-# Sumit Salpekar blog posts contribution
-Check out my blog posts 
-
-https://blogs.perficient.com/author/ssalpekar/
+# Sumit Salpekar Sitecore contributions
 
 
-Contributions on Perficient Blog
+**Contributions on Perficient Blog**
 https://blogs.perficient.com/author/ssalpekar/
 
 Sitecore Content Serialization Series
