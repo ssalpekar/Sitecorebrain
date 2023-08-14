@@ -10,5 +10,4 @@ Sitecore Content Serialization Series
 - > Episode 03 : Setup using Sitecore for Visual Studio – GUI - https://blogs.perficient.com/2023/08/02/setting-up-sitecore-content-serialization-using-sitecore-for-visual-studio-svs-gui/
 - > Episode 04 : Prerequisites and Modules Configuration - _**Coming Soon!**_
 - > Episode 05 : Include and Rules Configuration - _**Coming Soon!**_
-- > Episode 06 : Serialization Features, Item Packaging and Deployment - _**Coming Soon!**_
-- > Episode 07 : Final Episode - SCS Summary - _**Coming Soon!**_
+- > Episode 06(Final) : Serialization Features, Item Packaging and Deployment - _**Coming Soon!**_
