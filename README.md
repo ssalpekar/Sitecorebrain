@@ -9,5 +9,5 @@ Sitecore Content Serialization Series
 - > Episode 02 : Setup using CLI (Command Line Interface) - https://blogs.perficient.com/2023/08/02/setting-up-sitecore-content-serialization-using-cli-command-line-interface/
 - > Episode 03 : Setup using Sitecore for Visual Studio – GUI - https://blogs.perficient.com/2023/08/02/setting-up-sitecore-content-serialization-using-sitecore-for-visual-studio-svs-gui/
 - > Episode 04 : Prerequisites and Modules Configuration - https://blogs.perficient.com/2023/08/14/sitecore-content-serialization-episode-4-prerequisites-and-modules-configuration/ 
-- > Episode 05 : Include and Rules Configuration - _**Coming Soon!**_
+- > Episode 05 : Include and Rules Configuration - https://blogs.perficient.com/2023/08/18/sitecore-content-serialization-series-episode-5-include-and-rules-configuration/
 - > Episode 06(Final) : Serialization Features, Item Packaging and Deployment - _**Coming Soon!**_
