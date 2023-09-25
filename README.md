@@ -11,3 +11,6 @@ Sitecore Content Serialization Series
 - > Episode 04: Prerequisites and Modules Configuration - https://blogs.perficient.com/2023/08/14/sitecore-content-serialization-episode-4-prerequisites-and-modules-configuration/ 
 - > Episode 05: Include and Rules Configuration - https://blogs.perficient.com/2023/08/18/sitecore-content-serialization-series-episode-5-include-and-rules-configuration/
 - > Episode 06(Final): Serialization Features, Item Packaging and Deployment - https://blogs.perficient.com/2023/08/22/sitecore-content-serialization-series-final-episode-6-items-serialization-packaging-deployment/
+
+Sitecore Installation Errors Series
+- > Installation errors while setting up Sitecore 10.x instance with Docker - **_Coming Soon!_**
