@@ -13,4 +13,4 @@ Sitecore Content Serialization Series
 - > Episode 06(Final): Serialization Features, Item Packaging and Deployment - https://blogs.perficient.com/2023/08/22/sitecore-content-serialization-series-final-episode-6-items-serialization-packaging-deployment/
 
 Sitecore Installation Errors Series
-- > Installation errors while setting up Sitecore 10.x instance with Docker - **_Coming Soon!_**
+- > Installation errors while setting up Sitecore 10.x instance with Docker - https://blogs.perficient.com/2023/09/27/installation-errors-while-setting-up-sitecore-10-x-instance-with-docker/ 
