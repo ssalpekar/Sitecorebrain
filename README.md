@@ -14,3 +14,6 @@ Sitecore Content Serialization Series
 
 Sitecore Installation Errors Series
 - > Installation errors while setting up Sitecore 10.x instance with Docker - https://blogs.perficient.com/2023/09/27/installation-errors-while-setting-up-sitecore-10-x-instance-with-docker/ 
+
+Sitecore + Solr Configurations Serries
+- > Enable the Suggest & Spellcheck feature in Solr - https://blogs.perficient.com/2023/11/30/enable-the-suggest-spellcheck-feature-in-solr/
