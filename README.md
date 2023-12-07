@@ -17,3 +17,6 @@ Sitecore Installation Errors Series
 
 Sitecore + Solr Configurations Serries
 - > Enable the Suggest & Spellcheck feature in Solr - https://blogs.perficient.com/2023/11/30/enable-the-suggest-spellcheck-feature-in-solr/
+
+PowerShell Scripts Series
+- > Move Sitecore rendering from Shared Layout to Final Layout using PowerShell Script - **_Coming Soon_**
