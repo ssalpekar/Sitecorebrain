@@ -1,3 +1,7 @@
+#Experience a seamless transition in your Sitecore projects with our PowerShell script, designed to effortlessly move renderings from Shared Layout to Final Layout. 
+#Say goodbye to manual adjustments and embrace a streamlined rendering management process
+# Refer this blog post if you need more information about this PS script - https://blogs.perficient.com/?p=350978&preview=true
+
 #Set the Parent folder
 $RootItem = Show-Input "Set the root item path - ex : /sitecore/content" 
 
