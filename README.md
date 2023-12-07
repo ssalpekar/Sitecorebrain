@@ -1,4 +1,4 @@
-# Sumit Salpekar Sitecore contributions
+# Sumit Salpekar's Sitecore contributions
 
 
 **Contributions on Perficient Blog**
