@@ -44,14 +44,13 @@ $RenderingAdditionConfirmation = Show-Confirm -Title "Do you want to add the ren
 #Copy the datasource confirmation from Shared Layout
 $RenderingRemovalConfirmation = Show-Confirm -Title "Do you want to set the same datasource item in rendering of Final Layout?"
 
-
 if($selectedItems)
 {
 	foreach($item in $selectedItems)
 	{
 		#get renderings from the item’s shared layout
 		$renderings = Get-Rendering -Item $item -Device $deviceLayout -Placeholder $placeHolder 
-		$renderings
+		
 		if($renderings)
 		{
 			foreach($rendering in $renderings)
