@@ -3,6 +3,8 @@
 
 **Contributions on Perficient Blog**
 https://blogs.perficient.com/author/ssalpekar/
+**Stack exchange**
+https://sitecore.stackexchange.com/users/13515/sumit-salpekar
 
 Sitecore Content Serialization Series
 - > Episode 01: Introduction - https://blogs.perficient.com/2023/08/02/introduction-to-sitecore-content-serialization/
