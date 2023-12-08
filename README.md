@@ -3,6 +3,7 @@
 
 **Contributions on Perficient Blog**
 https://blogs.perficient.com/author/ssalpekar/
+
 **Stack exchange**
 https://sitecore.stackexchange.com/users/13515/sumit-salpekar
 
