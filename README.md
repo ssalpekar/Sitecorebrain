@@ -26,5 +26,5 @@ PowerShell Scripts Series
 - > Move Sitecore rendering from Shared Layout to Final Layout using PowerShell Script - https://blogs.perficient.com/2023/12/13/from-shared-to-final-layout-sitecore-rendering-made-easy-with-powershell/
 
 Other Sitecore Blogs
-- > My first JSS app experience - **_Coming Soon_**
+- > My first JSS app experience - https://blogs.perficient.com/2023/12/14/unveiling-the-essence-a-step-by-step-guide-to-building-your-first-sitecore-jss-app/ 
 - > First step towards CDP - **_Coming Soon_** 
