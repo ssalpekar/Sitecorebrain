@@ -19,7 +19,7 @@ Sitecore Installation Errors Series
 - > Installation errors while setting up Sitecore 10.x instance with Docker - https://blogs.perficient.com/2023/09/27/installation-errors-while-setting-up-sitecore-10-x-instance-with-docker/
 - > Sitecore 10.3 Installation Error: The property ‘Value’ cannot be found on this object - https://blogs.perficient.com/2023/12/13/sitecore-10-3-installation-error-the-property-value-cannot-be-found-on-this-object/
 
-Sitecore + Solr Customization Serries
+Sitecore + Solr Customization Series
 - > Enable the Suggest & Spellcheck feature in Solr - https://blogs.perficient.com/2023/11/30/enable-the-suggest-spellcheck-feature-in-solr/
 
 PowerShell Scripts Series
