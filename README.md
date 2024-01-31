@@ -36,4 +36,5 @@ Control Panel Features Series
 - > Episode 04: Indexng and Analytics - **_Coming Soon_** 
 
 Other Blogs
-- > First step towards CDP - **_Coming Soon_** 
+- > First step towards CDP - **_Coming Soon_**
+- > A Guide to Creating a Custom Submit Action for Seamless Sitecore Forms Data Capture in Pardot - https://blogs.perficient.com/2024/01/31/a-guide-to-creating-a-custom-submit-action-for-seamless-sitecore-forms-data-capture-in-pardot/
