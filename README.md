@@ -2,6 +2,7 @@
 
 **Organizer of Sitecore User Group - Nagpur**
 - > Session 1: Beyond the Basics: Sitecore CDP & Personalize Use Cases for Maximum Impact.
+
     Speaker: Rashmy Patwari
     Date & Time: Jan 25, 2024 05:00 PM IST
     Meetup Link: https://www.meetup.com/nagpur-sitecore-cms-meetup-group/events/298583266/
