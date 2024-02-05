@@ -2,7 +2,7 @@
 
 **Organizer of Sitecore User Group - Nagpur**
 - > _Session 1_: Beyond the Basics: Sitecore CDP & Personalize Use Cases for Maximum Impact.<br /> _Speaker_: Rashmy Patwari <br />_Date & Time_: Jan 25, 2024 05:00 PM IST<br />_Meetup Link_: https://www.meetup.com/nagpur-sitecore-cms-meetup-group/events/298583266/ <br />_Video Link_: https://www.youtube.com/watch?v=8iWvO4sqpB0
-- > **Upcoming** - Session 2: Personalization in Sitecore XM Cloud<br />Time & Date: Feb 16, 2024 03:00 PM IST<br />Meetup Link: https://www.meetup.com/nagpur-sitecore-cms-meetup-group/events/298948984<br />Video Link: **_Coming Soon_**
+- > **Upcoming** -_ Session 2_: Personalization in Sitecore XM Cloud<br /> _Speaker_: Anna Gevel<br />_Date & Time_: Feb 16, 2024 03:00 PM IST<br />_Meetup Link_: https://www.meetup.com/nagpur-sitecore-cms-meetup-group/events/298948984<br />_Video Link_: **_Coming Soon_**
 
 **Contributions on Perficient Blog**
 https://blogs.perficient.com/author/ssalpekar/
