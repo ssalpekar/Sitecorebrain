@@ -4,11 +4,11 @@
 - > _Session 1_: Beyond the Basics: Sitecore CDP & Personalize Use Cases for Maximum Impact.<br /> _Speaker_: Rashmy Patwari <br />_Date & Time_: Jan 25, 2024 05:00 PM IST<br />_Meetup Link_: https://www.meetup.com/nagpur-sitecore-cms-meetup-group/events/298583266/ <br />_Video Link_: https://www.youtube.com/watch?v=8iWvO4sqpB0
 - > **Upcoming** - _Session 2_: Personalization in Sitecore XM Cloud<br /> _Speaker_: Anna Gevel<br />_Date & Time_: Feb 16, 2024 03:00 PM IST<br />_Meetup Link_: https://www.meetup.com/nagpur-sitecore-cms-meetup-group/events/298948984<br />_Video Link_: **_Coming Soon_**
 
+**Sitecore Stack exchange**
+https://sitecore.stackexchange.com/users/13515/sumit-salpekar
+
 **Contributions on Perficient Blog**
 https://blogs.perficient.com/author/ssalpekar/
-
-**Stack exchange**
-https://sitecore.stackexchange.com/users/13515/sumit-salpekar
 
 Sitecore Content Serialization Series
 - > Episode 01: Introduction - https://blogs.perficient.com/2023/08/02/introduction-to-sitecore-content-serialization/
